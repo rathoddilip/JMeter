@@ -1,0 +1,5 @@
+line 21 column 3 - Warning: missing <!DOCTYPE> declaration
+line 21 column 3 - Warning: plain text isn't allowed in <head> elements
+line 22 column 2 - Warning: inserting missing 'title' element
+InputStream: Document content looks like HTML 3.2
+3 warnings, no errors were found!

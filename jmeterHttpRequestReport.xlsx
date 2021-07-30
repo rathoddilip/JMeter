@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1627022993349,3224,MyFirstHTTPTest,200,OK,Thread Group 1-2,text,true,,42405,132,5,5,https://lifecharger.org/2-minute-rule/,2404,0,875
+1627022992348,5090,MyFirstHTTPTest,200,OK,Thread Group 1-1,text,true,,42400,132,4,4,https://lifecharger.org/2-minute-rule/,3821,0,2038
+1627022995351,2806,MyFirstHTTPTest,200,OK,Thread Group 1-4,text,true,,42405,132,3,3,https://lifecharger.org/2-minute-rule/,2089,0,824
+1627022996351,4523,MyFirstHTTPTest,200,OK,Thread Group 1-5,text,true,,42405,132,2,2,https://lifecharger.org/2-minute-rule/,3703,0,1810
+1627022994349,129662,MyFirstHTTPTest,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out (Connection timed out),Thread Group 1-3,text,false,,2875,0,1,1,https://lifecharger.org/2-minute-rule/,0,0,129662
